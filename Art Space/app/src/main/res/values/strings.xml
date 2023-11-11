@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="dunas">Dunas de Maspalomas</string>
+    <string name="dunas_year">2021</string>
+    <string name="catedral">Catedral de Las Palmas</string>
+    <string name="catedral_year">2020</string>
+    <string name="agaete">Norte de Gran Canaria</string>
+    <string name="agaete_year">2019</string>
+    <string name="bentayga">Roque Bentayga</string>
+    <string name="bentayga_year">2022</string>
+</resources>
